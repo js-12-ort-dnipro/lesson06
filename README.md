@@ -1,0 +1,2 @@
+# lesson06
+Lesson #06 (11 &amp; 12) Цикл событий в JavaScript (Event Loop) и асинхронность в JavaScript. Проблема callback’ов. Promise в JavaScript, promise'фикация. Fetch – AJAX запросы на базе Promise. Выполнение множества асинхронных запросов и обработка результатов, Promise API. Операторы Async / Await их цели, задачи и применение. Работа с WebAPI. Полезные WebAPI. Введение в Node.JS - JavaScript вне браузера. NPM (Node Package Manager) и установка пакетов.
